@@ -291,9 +291,9 @@ while (true) {
 
 ---
 
-## 扩展建议
+## Roadmap
 
-想让 mini-cc 更接近完整版？可以逐步添加：
+以下是 mini-cc 后续计划支持的能力，逐步向完整版 Claude Code 靠拢：
 
 1. **上下文压缩** — 当 messages 过长时自动 summarize（对应 CC 的 `services/compact/`）
 2. **会话持久化** — 保存/恢复对话到 JSON 文件（对应 CC 的 `utils/sessionStorage.ts`）
