@@ -305,4 +305,6 @@ while (true) {
 
 ## License
 
-Educational project. Claude Code source is property of [Anthropic](https://www.anthropic.com).
+MIT License. See [LICENSE](LICENSE) for details.
+
+Claude Code source is property of [Anthropic](https://www.anthropic.com).
